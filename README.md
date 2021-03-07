@@ -9,8 +9,8 @@ What is Vertcoin?
 Vertcoin is a fork of Bitcoin that is designed to resist the monopolisation of
 mining power.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - Subsidy halves in 840k blocks (~4 years)
+ - 84 million total coins
  - 25 coins per block 
  - Difficulty retargeting every block to recover from large hashrate swings
  - Verthash proof of work algorithm for ASIC resistance
