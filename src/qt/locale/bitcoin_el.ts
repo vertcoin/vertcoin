@@ -2360,8 +2360,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Είστε βέβαιοι ότι θέλετε να στείλετε;</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Παρακαλώ ελέγξτε την πρόταση συναλλαγής. Αυτό θα παράγει μια συναλλαγή Vertcoin με μερική υπογραφή (PSBT), την οποία μπορείτε να αντιγράψετε και στη συνέχεια να υπογράψετε με π.χ. ένα πορτοφόλι %1 εκτός σύνδεσης ή ένα πορτοφόλι υλικού συμβατό με το PSBT.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Παρακαλώ ελέγξτε την πρόταση συναλλαγής. Αυτό θα παράγει μια συναλλαγή Vertcoin με μερική υπογραφή (PSVT), την οποία μπορείτε να αντιγράψετε και στη συνέχεια να υπογράψετε με π.χ. ένα πορτοφόλι %1 εκτός σύνδεσης ή ένα πορτοφόλι υλικού συμβατό με το PSBT.</translation>
     </message>
     <message>
         <source>or</source>

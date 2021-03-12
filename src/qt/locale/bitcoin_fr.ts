@@ -2357,7 +2357,7 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Cr&amp;éer une transaction non signée</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
         <translation>Crée une transaction Vertcoin partiellement signée (TBPS) à utiliser, par exemple, avec un porte-monnaie %1 hors ligne ou avec un porte-monnaie matériel compatible TBPS.</translation>
     </message>
     <message>
@@ -2381,8 +2381,8 @@ Note : Les frais étant calculés par octet, des frais de « 100 satoshis par
         <translation>Voulez-vous vraiment envoyer ?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Veuillez réviser votre proposition de transaction. Une transaction Vertcoin partiellement signée (TBPS) sera produite, que vous pourrez copier puis signer avec, par exemple, un porte-monnaie %1 hors ligne ou avec un porte-monnaie matériel compatible TBPS.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Veuillez réviser votre proposition de transaction. Une transaction Vertcoin partiellement signée (TVPS) sera produite, que vous pourrez copier puis signer avec, par exemple, un porte-monnaie %1 hors ligne ou avec un porte-monnaie matériel compatible TBPS.</translation>
     </message>
     <message>
         <source>or</source>

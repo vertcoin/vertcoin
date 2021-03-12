@@ -2373,8 +2373,8 @@ Opomba: Ker se provizija izračuna na bajt, bi provizija "100 satoshijev na kB" 
         <translation>Ustvari n&amp;epodpisano</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Ustvari delno podpisano vertcoin-transakcijo (DPBT, angl. PSBT), ki jo lahko skopirate in potem podpišete n.pr. z nepovezano (offline) %1 denarnico ali pa s hardversko denarnico, ki podpira DPBT.</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Ustvari delno podpisano vertcoin-transakcijo (DPVT, angl. PSVT), ki jo lahko skopirate in potem podpišete n.pr. z nepovezano (offline) %1 denarnico ali pa s hardversko denarnico, ki podpira DPVT.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2397,8 +2397,8 @@ Opomba: Ker se provizija izračuna na bajt, bi provizija "100 satoshijev na kB" 
         <translation>Ali ste prepričani, da želite poslati?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Prosimo, preglejte svoj predlog transakcije. Ustvarjena bo delno podpisana vertcoin-transakcija (DPBT, angl. PSBT), ki jo lahko skopirate in potem podpišete n.pr. z nepovezano (offline) %1 denarnico ali pa s hardversko denarnico, ki podpira DPBT.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Prosimo, preglejte svoj predlog transakcije. Ustvarjena bo delno podpisana vertcoin-transakcija (DPVT, angl. PSVT), ki jo lahko skopirate in potem podpišete n.pr. z nepovezano (offline) %1 denarnico ali pa s hardversko denarnico, ki podpira DPVT.</translation>
     </message>
     <message>
         <source>or</source>

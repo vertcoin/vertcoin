@@ -2341,8 +2341,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Креирај непотписано</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Креира делимично потписану Биткоин трансакцију (PSBT) за коришћење са нпр. офлајн %1 новчаником, или PSBT компатибилним хардверским новчаником. </translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Креира делимично потписану Вертцоин (Vertcoin) трансакцију (PSVT) за коришћење са нпр. офлајн %1 новчаником, или PSVT компатибилним хардверским новчаником. </translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2365,8 +2365,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Да ли сте сигурни да желите да пошаљете?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Молим, проверите ваш предлог трансакције. Ово ће произвести делимично потписану Биткоин трансакцију (PSBT) коју можете копирати и онда потписати са нпр. офлајн %1 новчаником, или PSBT компатибилним хардверским новчаником.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Молим, проверите ваш предлог трансакције. Ово ће произвести делимично потписану Вертцоин (Vertcoin) трансакцију (PSVT) коју можете копирати и онда потписати са нпр. офлајн %1 новчаником, или PSVT компатибилним хардверским новчаником.</translation>
     </message>
     <message>
         <source>or</source>

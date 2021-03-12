@@ -2370,8 +2370,8 @@ Nota: poiché la commissione è calcolata su base per byte, una commissione di "
         <translation>Cr&amp;eate Unsigned</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Crea una Transazione Bitcoin Parzialmente Firmata (PSBT) da utilizzare con ad es. un portafoglio %1 offline o un portafoglio hardware compatibile con PSBT.</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Crea una Transazione Vertcoin Parzialmente Firmata (PSVT) da utilizzare con ad es. un portafoglio %1 offline o un portafoglio hardware compatibile con PSVT.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2394,8 +2394,8 @@ Nota: poiché la commissione è calcolata su base per byte, una commissione di "
         <translation>Sei sicuro di voler inviare?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Per favore, rivedi la tua proposta di transazione. Questo produrrà una Transazione Bitcoin Parzialmente Firmata (PSBT) che puoi copiare e quindi firmare con es. un portafoglio %1 offline o un portafoglio hardware compatibile con PSBT.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Per favore, rivedi la tua proposta di transazione. Questo produrrà una Transazione Vertcoin Parzialmente Firmata (PSVT) che puoi copiare e quindi firmare con es. un portafoglio %1 offline o un portafoglio hardware compatibile con PSBT.</translation>
     </message>
     <message>
         <source>or</source>

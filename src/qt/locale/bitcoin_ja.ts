@@ -2354,8 +2354,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>未署名で作成</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>オフライン%1ウォレットまたはPSBTに対応したハードウェアウォレットと合わせて使用するためのPSBT(部分的に署名されたトランザクション)を作成します。</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>オフライン%1ウォレットまたはPSVTに対応したハードウェアウォレットと合わせて使用するためのPSVT（部分的に署名されたVertcoinトランザクション）を作成します。</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2378,8 +2378,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>送金してもよろしいですか？</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>トランザクション提案を確認してください。これにより、部分的に署名されたビットコイン・トランザクション（PSBT）が作成されます。これをコピーして例えばオフラインの %1 ウォレットやPSBTを扱えるハードウェアウォレットで残りの署名が出来ます。</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>トランザクション提案を確認してください。これにより、部分的に署名されたVertcoin・トランザクション（PSVT）が作成されます。これをコピーして例えばオフラインの %1 ウォレットやPSVTを扱えるハードウェアウォレットで残りの署名が出来ます。</translation>
     </message>
     <message>
         <source>or</source>

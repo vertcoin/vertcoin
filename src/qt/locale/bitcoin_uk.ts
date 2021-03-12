@@ -2345,8 +2345,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>С&amp;творити непідписану</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Створює частково підписану транзакцію Vertcoin (PSBT) для використання, наприклад, офлайн-гаманець %1 або гаманця, сумісного з PSBT.</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Створює частково підписану транзакцію Vertcoin (PSVT) для використання, наприклад, офлайн-гаманець %1 або гаманця, сумісного з PSVT.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2369,8 +2369,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Ви впевнені, що хочете відправити?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Перегляньте пропозицію щодо транзакцій. Це призведе до частково підписаної трансакції Vertcoin (PSBT), яку ви можете скопіювати та підписати, наприклад, офлайн-гаманецем %1 або гаманцем, сумісний з PSBT.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Перегляньте пропозицію щодо транзакцій. Це призведе до частково підписаної трансакції Vertcoin (PSVT), яку ви можете скопіювати та підписати, наприклад, офлайн-гаманецем %1 або гаманцем, сумісний з PSVT.</translation>
     </message>
     <message>
         <source>or</source>

@@ -2366,8 +2366,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Creació sense firmar</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Crea una transacció vertcoin parcialment signada (PSBT) per a utilitzar, per exemple,  amb una cartera %1 fora de línia o amb una cartera compatible amb PSBT.</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Crea una transacció vertcoin parcialment signada (PSVT) per a utilitzar, per exemple,  amb una cartera %1 fora de línia o amb una cartera compatible amb PSBT.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2390,8 +2390,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Esteu segur que ho voleu enviar?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Revisa la teva proposta de transacció. Es produirà una transacció de Bitcoin amb signatura parcial (PSBT) que podeu copiar i després signar, per exemple, amb una cartera %1 de tipus fora de línia o una cartera física compatible amb PSBT.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Revisa la teva proposta de transacció. Es produirà una transacció de Vertcoin amb signatura parcial (PSVT) que podeu copiar i després signar, per exemple, amb una cartera %1 de tipus fora de línia o una cartera física compatible amb PSBT.</translation>
     </message>
     <message>
         <source>or</source>

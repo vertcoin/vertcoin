@@ -2362,8 +2362,8 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation>Cr&amp;eëer Ongetekend</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Creëert een Partially Signed Bitcoin Transaction (PSBT) om te gebruiken met b.v. een offline %1 wallet, of een PSBT-compatibele hardware wallet.</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Creëert een Partially Signed Vertcoin Transaction (PSVT) om te gebruiken met b.v. een offline %1 wallet, of een PSVT-compatibele hardware wallet.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2386,8 +2386,8 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation>Weet u zeker dat u wilt verzenden?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Gelieve je transactie-voorstel te controleren. Dit zal een Partially Signed Bitcoin Transaction (PSBT) maken die je kan kopiëren en dan tekenen met b.v. een offline %1 wallet, of een PSBT-compatibele hardware wallet.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Gelieve je transactie-voorstel te controleren. Dit zal een Partially Signed Vertcoin Transaction (PSVT) maken die je kan kopiëren en dan tekenen met b.v. een offline %1 wallet, of een PSVT-compatibele hardware wallet.</translation>
     </message>
     <message>
         <source>or</source>

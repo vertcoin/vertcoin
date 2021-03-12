@@ -2365,8 +2365,8 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
         <translation>Unsigniert erzeugen</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Erzeugt eine teilsignierte Bitcoin Transaktion (PSBT) zur Benutzung mit z.B. einem Offline %1 Wallet, oder einem kompatiblen Hardware Wallet.</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Erzeugt eine teilsignierte Vertcoin Transaktion (PSVT) zur Benutzung mit z.B. einem Offline %1 Wallet, oder einem kompatiblen Hardware Wallet.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2389,8 +2389,8 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
         <translation>Wollen Sie die Überweisung ausführen?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Bitte überprüfe deinen Transaktionsentwurf. Es wird eine teilsignierte Bitcoin Transaktion (PSBT) erzeugt, die du kopieren und dann mit z.B. einem Offline %1 Wallet oder einem PSBT-kompatiblen Hardware Wallet signieren kannst.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Bitte überprüfe deinen Transaktionsentwurf. Es wird eine teilsignierte Vertcoin Transaktion (PSVT) erzeugt, die du kopieren und dann mit z.B. einem Offline %1 Wallet oder einem PSBT-kompatiblen Hardware Wallet signieren kannst.</translation>
     </message>
     <message>
         <source>or</source>

@@ -2361,8 +2361,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>创建未签名交易(&amp;E)</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>创建一个“部分签名比特币交易”（PSBT），以用于诸如离线%1钱包，或是兼容PSBT的硬件钱包这类用途。</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>创建一个“部分签名Vertcoin交易”（PSVT），以用于诸如离线%1钱包，或是兼容PSVT的硬件钱包这类用途。</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2385,8 +2385,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>您确定要发出吗？</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>请务必要审核您的交易提案。这将会产生一笔“部分签名比特币交易”（PSBT），您可以复制它，然后可以通过各种方式对它进行签名，比如，可以通过离线%1钱包或是兼容PSBT的硬件钱包来完成签名。</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>请务必要审核您的交易提案。这将会产生一笔“部分签名Vertcoin交易”（PSVT），您可以复制它，然后可以通过各种方式对它进行签名，比如，可以通过离线%1钱包或是兼容PSVT的硬件钱包来完成签名。</translation>
     </message>
     <message>
         <source>or</source>

@@ -2290,9 +2290,9 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <source>Cr&amp;eate Unsigned</source>
         <translation>יצ&amp;ירת לא חתום</translation>
     </message>
-    <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>יוצר עסקת ביטקוין חתומה חלקית (PSBT) לשימוש עם ארנק %1 לא מחובר למשל, או עם PSBT ארנק חומרה תואם.</translation>
+    <message>ביטקוי                    ן
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>יוצר עסקת Vertcoin ן חתומה חלקית (PSVT) לשימוש עם ארנק %1 לא מחובר למשל, או עם PSVT ארנק חומרה תואם.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>

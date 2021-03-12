@@ -2279,7 +2279,7 @@ Merk: Siden avgiften er beregnet per byte-basis, vil et gebyr på "100 satoshis 
         <translation>Skjul innstillinger for transaksjonsgebyr</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for Vertcoin transactions than the network can process.</source>
         <translation>Når det er mindre transaksjonsvolum enn plass i blokkene, kan gruvearbeidere så vel som videresende noder håndheve et minimumsgebyr. Å betale bare denne minsteavgiften er helt greit, men vær klar over at dette kan resultere i en aldri bekreftende transaksjon når det er større etterspørsel etter bitcoin-transaksjoner enn nettverket kan behandle.</translation>
     </message>
     <message>

@@ -972,9 +972,9 @@ static std::string WriteHDKeypath(std::vector<uint32_t>& keypath)
 UniValue decodepsbt(const JSONRPCRequest& request)
 {
             RPCHelpMan{"decodepsbt",
-                "\nReturn a JSON object representing the serialized, base64-encoded partially signed Bitcoin transaction.\n",
+                "\nReturn a JSON object representing the serialized, base64-encoded partially signed Vertcoin transaction.\n",
                 {
-                    {"psbt", RPCArg::Type::STR, RPCArg::Optional::NO, "The PSBT base64 string"},
+                    {"psbt", RPCArg::Type::STR, RPCArg::Optional::NO, "The PSVT base64 string"},
                 },
                 RPCResult{
                     RPCResult::Type::OBJ, "", "",
@@ -1281,12 +1281,12 @@ UniValue decodepsbt(const JSONRPCRequest& request)
 UniValue combinepsbt(const JSONRPCRequest& request)
 {
             RPCHelpMan{"combinepsbt",
-                "\nCombine multiple partially signed Bitcoin transactions into one transaction.\n"
+                "\nCombine multiple partially signed Vertcoin transactions into one transaction.\n"
                 "Implements the Combiner role.\n",
                 {
                     {"txs", RPCArg::Type::ARR, RPCArg::Optional::NO, "The base64 strings of partially signed transactions",
                         {
-                            {"psbt", RPCArg::Type::STR, RPCArg::Optional::OMITTED, "A base64 string of a PSBT"},
+                            {"psbt", RPCArg::Type::STR, RPCArg::Optional::OMITTED, "A base64 string of a PSVT"},
                         },
                         },
                 },
@@ -1329,12 +1329,12 @@ UniValue combinepsbt(const JSONRPCRequest& request)
 UniValue finalizepsbt(const JSONRPCRequest& request)
 {
             RPCHelpMan{"finalizepsbt",
-                "Finalize the inputs of a PSBT. If the transaction is fully signed, it will produce a\n"
-                "network serialized transaction which can be broadcast with sendrawtransaction. Otherwise a PSBT will be\n"
+                "Finalize the inputs of a PSVT. If the transaction is fully signed, it will produce a\n"
+                "network serialized transaction which can be broadcast with sendrawtransaction. Otherwise a PSVT will be\n"
                 "created which has the final_scriptSig and final_scriptWitness fields filled for inputs that are complete.\n"
                 "Implements the Finalizer and Extractor roles.\n",
                 {
-                    {"psbt", RPCArg::Type::STR, RPCArg::Optional::NO, "A base64 string of a PSBT"},
+                    {"psbt", RPCArg::Type::STR, RPCArg::Optional::NO, "A base64 string of a PSVT"},
                     {"extract", RPCArg::Type::BOOL, /* default */ "true", "If true and the transaction is complete,\n"
             "                             extract and return the complete transaction in normal network serialization instead of the PSBT."},
                 },

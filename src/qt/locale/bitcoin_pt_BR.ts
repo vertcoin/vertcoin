@@ -2357,8 +2357,8 @@ Nota:  Como a taxa é calculada por byte, uma taxa de "100 satoshis por kB" por 
         <translation>Cr&amp;iar Não Assinado</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Cria uma Transação de Bitcoin Parcialmente Assinada (PSBT) para usar com ex: uma carteira %1 offline, ou uma PSBT-compatível hardware wallet.</translation>
+        <source>Creates a Partially Signed Vertcoin Transaction (PSVT) for use with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Cria uma Transação de Vertcoin Parcialmente Assinada (PSVT) para usar com ex: uma carteira %1 offline, ou uma PSVT-compatível hardware wallet.</translation>
     </message>
     <message>
         <source> from wallet '%1'</source>
@@ -2381,8 +2381,8 @@ Nota:  Como a taxa é calculada por byte, uma taxa de "100 satoshis por kB" por 
         <translation>Tem certeza que deseja enviar?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Por favor, reveja sua proposta de transação. Será produzido uma Transação de Bitcoin Parcialmente Assinada (PSBT) que você pode copiar e assinar com ex: uma carteira %1 offline, ou uma PSBT-compatível hardware wallet.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Vertcoin Transaction (PSVT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSVT-compatible hardware wallet.</source>
+        <translation>Por favor, reveja sua proposta de transação. Será produzido uma Transação de Vertcoin Parcialmente Assinada (PSVT) que você pode copiar e assinar com ex: uma carteira %1 offline, ou uma PSVT-compatível hardware wallet.</translation>
     </message>
     <message>
         <source>or</source>
