@@ -2047,7 +2047,7 @@ Podpisywanie jest możliwe tylko z adresami typu „legacy”.</translation>
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>$Ruch sieci</translation>
+        <translation>Ruch sieci</translation>
     </message>
     <message>
         <source>Totals</source>
